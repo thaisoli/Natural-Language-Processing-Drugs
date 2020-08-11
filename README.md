@@ -6,3 +6,6 @@ For each entry, there is a personal review of the medicine used.
 
 The data was retrieved from:
 https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29
+
+To run the program, first you must download the dataset given by the link above. 
+Make sure to unzip the file and save the train and test data in the same folder as Drugs.
